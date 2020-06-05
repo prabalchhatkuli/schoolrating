@@ -1,7 +1,7 @@
 <template>
     <div>
         <h4>Search for a school</h4>
-        <input type="text" placeholder="KTM school" />
+        <input type="text" placeholder="Province/City/School" />
     </div>
 </template>
 
